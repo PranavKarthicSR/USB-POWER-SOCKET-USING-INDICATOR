@@ -1,0 +1,10 @@
+USB POWER SOCKET USING INDICATOR
+The proposed project, USB Power Socket Using Indicator, is designed to provide a convenient and safe method for charging electronic devices such as mobile phones, tablets, and other USB-powered gadgets. The system converts the AC mains supply into a regulated 5V DC output required for USB charging.
+
+The main objective of this project is to develop a USB power socket with an LED indicator to display the power supply status. When the power supply is switched ON, the LED indicator glows, indicating that the USB socket is ready for charging. When a USB device is connected, the regulated DC supply is delivered through the USB port.
+
+The system consists of an AC-to-DC converter, voltage regulator, USB charging port, switch, and LED indicator. The voltage regulation circuit ensures a stable 5V DC output, while suitable protection circuits help prevent overvoltage and short-circuit conditions.
+
+This project provides a simple, low-cost, energy-efficient, and user-friendly charging solution. It can be installed in homes, offices, educational institutions, and public places.
+
+Keywords: USB Power Socket, LED Indicator, 5V DC Supply, Voltage Regulator, Mobile Charging, AC-to-DC Converter.
